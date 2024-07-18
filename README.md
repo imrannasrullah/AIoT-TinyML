@@ -1,5 +1,7 @@
 # AIoT-TinyML
-Interfacing a remote camera feed for AI/AIot-based image processing using a custom Real Time Operating System
+Interfacing a remote camera feed for AI/AIot-based image processing using a custom built Real Time Operating System
+
+(With extreme thanks to Dr. Md Jahidul Islam, Microprocessors Applications 2)
 
 Steps to run the project:
 
