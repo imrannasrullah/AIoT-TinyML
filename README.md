@@ -12,7 +12,7 @@ Setup the BeagleBone
 6. "pip3 install -upgrade pip", "pip3 install PySerial", and "sudo apt install python3-opencv"
 7. In the SSH terminal, run: python3, import cv2, import serial (on new lines) to see if install properly
 7. SSH into the BeagleBone, and transfer the Client.py file and "faarcascade_frontalface_default.xml" via WinSCP to it.
-8. 
+   
 To start the entire setup
 1. Power on the BeagleBone, SSH into it, and run the 2 config-pin commands (run "config-pin p9.11 uart" and "config-pin p9.13 uart")
 2. Plug in the Tiva and wait until it powers on
